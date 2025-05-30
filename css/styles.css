@@ -581,7 +581,7 @@ body {
   pointer-events: none;
 }
 
-.modal.is-open {
+.modal /*.is-open*/ {
   opacity: 0;
   pointer-events: none;
   visibility: hidden;
