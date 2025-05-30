@@ -582,7 +582,7 @@ body {
   opacity: 0;
 }
 
-.modal.active {
+.modal is-open {
   opacity: 1;
   pointer-events: auto;
 }
@@ -693,8 +693,7 @@ body {
   transform: translateY(-50%);
   transition: fill 250ms;
 }
-.label-icon {
-}
+
 .modal-comment {
   margin-bottom: 16px;
   width: 100%;
