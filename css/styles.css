@@ -582,7 +582,7 @@ body {
   opacity: 0;
 }
 
-.modal is-open {
+.modal {
   opacity: 1;
   pointer-events: auto;
 }
@@ -741,8 +741,6 @@ body {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   border: 250ms cubic-bezier(0.4, 0, 0.2, 1);
   fill: 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-.chackbox-icon {
 }
 
 input[type="checkbox"]:checked + .checkbox-label .policy-chackbox {
