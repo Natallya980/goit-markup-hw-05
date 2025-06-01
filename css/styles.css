@@ -215,7 +215,7 @@ body {
   position: relative;
 }
 .dscr-icon-wrapper {
-  width: 264px;
+  /* width: 264px; */
   height: 112px;
   background-color: #f4f4fd;
   border-radius: 4px;
@@ -244,7 +244,7 @@ body {
 
 /* ===========Our team============= */
 .team-section {
-  width: 1440px;
+  /* width: 1440px; */
   background-color: #f4f4fd;
   padding: 120px 0;
   text-align: center;
@@ -496,6 +496,7 @@ body {
 }
 .footer-subscr {
   text-align: left;
+  margin-left: 80px;
 }
 
 .subscr-text {
@@ -503,11 +504,12 @@ body {
   font-weight: 500;
   letter-spacing: 0.02em;
   margin-bottom: 16px;
-  margin-left: 80px;
+  line-height: 1.5;
+  /* margin-left: 80px; */
   color: #ffffff;
 }
 .subscr-form {
-  margin-left: 80px;
+  /* margin-left: 80px; */
   width: 453px;
   display: flex;
   gap: 24px;
