@@ -406,6 +406,7 @@ body {
 .portfolio-list-item:hover .overlay {
   transform: translatey(0);
 }
+
 /*=============== Footer section=========== */
 .footer-section {
   background-color: #2e2f42;
